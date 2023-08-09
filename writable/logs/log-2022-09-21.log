@@ -1,0 +1,171 @@
+CRITICAL - 2022-09-21 08:57:45 --> Trying to access array offset on value of type bool
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 08:58:41 --> Trying to access array offset on value of type bool
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 09:25:51 --> Array to string conversion
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 09:26:09 --> Array to string conversion
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 09:26:12 --> Array to string conversion
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 09:26:21 --> Undefined array key "hh"
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 09:26:31 --> Object of class stdClass could not be converted to string
+#0 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-21 09:26:50 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 105)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(97): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-21 09:26:53 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 105)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(97): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-21 09:46:48 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 104)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(96): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-21 09:47:07 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(72): App\Models\Usermodel->verifiedModel(Array)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 09:54:54 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 104)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(80): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-21 09:56:47 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 104)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(96): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-21 09:56:55 --> Attempt to read property "c_phone" on array
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 104)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(96): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-21 09:57:06 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 104)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(96): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-21 10:00:02 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 105)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(96): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-21 10:00:35 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 105)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(80): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-21 10:00:56 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 105)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(96): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-09-21 10:07:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tbl_students.sd_status=1' at line 1
+CRITICAL - 2022-09-21 10:07:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tbl_students.sd_status=1' at line 1
+#0 C:\xampp\htdocs\eternity\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp\htdocs\eternity\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp\htdocs\eternity\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp\htdocs\eternity\app\Models\Usermodel.php(51): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp\htdocs\eternity\app\Controllers\User.php(72): App\Models\Usermodel->verifiedModel(Array)
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-09-21 10:08:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tbl_students.sd_status=1' at line 1
+CRITICAL - 2022-09-21 10:08:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tbl_students.sd_status=1' at line 1
+#0 C:\xampp\htdocs\eternity\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp\htdocs\eternity\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp\htdocs\eternity\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp\htdocs\eternity\app\Models\Usermodel.php(51): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp\htdocs\eternity\app\Controllers\User.php(72): App\Models\Usermodel->verifiedModel(Array)
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-09-21 10:13:23 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tbl_companies.c_pstatus=0 AND tbl_companies.c_dstatus=0' at line 1
+CRITICAL - 2022-09-21 10:13:23 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tbl_companies.c_pstatus=0 AND tbl_companies.c_dstatus=0' at line 1
+#0 C:\xampp\htdocs\eternity\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp\htdocs\eternity\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp\htdocs\eternity\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp\htdocs\eternity\app\Models\Usermodel.php(47): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp\htdocs\eternity\app\Controllers\User.php(72): App\Models\Usermodel->verifiedModel(Array)
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

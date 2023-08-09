@@ -1,0 +1,82 @@
+CRITICAL - 2023-03-30 01:44:05 --> Undefined variable $totalTime
+#0 C:\xampp\htdocs\eternity\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\eternity\system\Debug\Toolbar.php(497): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\eternity\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\xampp\htdocs\eternity\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\xampp\htdocs\eternity\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-30 02:11:27 --> Undefined array key "user"
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(711): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 711)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->StudViewGuidance()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-30 02:11:27 --> Undefined array key "user"
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(726): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 726)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->std_viewProffetionals()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-30 02:11:28 --> Undefined array key "user"
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(690): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 690)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->StudJobView()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-30 02:11:28 --> Undefined array key "user"
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(726): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 726)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->std_viewProffetionals()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-30 02:11:39 --> Undefined array key "user"
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(690): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 690)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->StudJobView()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-30 02:11:39 --> Undefined array key "user"
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(726): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 726)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->std_viewProffetionals()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-30 02:11:39 --> Undefined array key "user"
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(711): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 711)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->StudViewGuidance()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-30 10:24:19 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(365): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 365)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(144): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-03-30 10:24:25 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(365): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 365)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(144): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-03-30 10:24:28 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(365): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 365)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(144): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

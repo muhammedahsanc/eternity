@@ -1,0 +1,62 @@
+CRITICAL - 2021-12-18 00:02:37 --> Call to a member function getRandomName() on null
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->crudinsert()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-18 02:13:10 --> syntax error, unexpected token "if"
+#0 C:\xampp\htdocs\codei\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Home/crudview/2...')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Home/crudview/2...')
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-18 02:13:42 --> syntax error, unexpected token "if"
+#0 C:\xampp\htdocs\codei\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Home/crudview/2...')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Home/crudview/2...')
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-18 02:13:43 --> syntax error, unexpected token "if"
+#0 C:\xampp\htdocs\codei\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Home/crudview/2...')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Home/crudview/2...')
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-18 02:18:53 --> syntax error, unexpected token "if"
+#0 C:\xampp\htdocs\codei\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Home/index')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Home/index')
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-18 02:18:56 --> syntax error, unexpected token "if"
+#0 C:\xampp\htdocs\codei\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Home/formview')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Home/formview')
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-18 02:19:27 --> syntax error, unexpected token "if"
+#0 C:\xampp\htdocs\codei\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Home/formview')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Home/formview')
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-18 02:19:45 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\codei\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Home/formview')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Home/formview')
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-18 04:17:37 --> syntax error, unexpected token "public", expecting end of file
+#0 C:\xampp\htdocs\codei\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Home/index')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Home/index')
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,46 @@
+CRITICAL - 2023-01-09 11:51:10 --> Undefined array key "user"
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(709): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 709)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->StudViewGuidance()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-01-09 11:51:23 --> Undefined array key "user"
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(709): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 709)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->StudViewGuidance()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-01-09 20:03:35 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(407): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 407)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(131): App\Controllers\User->rederection()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-09 20:03:40 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(407): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 407)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(131): App\Controllers\User->rederection()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-09 20:03:44 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(407): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 407)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(131): App\Controllers\User->rederection()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-01-09 20:03:49 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(407): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 407)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(131): App\Controllers\User->rederection()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

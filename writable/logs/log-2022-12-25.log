@@ -1,0 +1,13 @@
+CRITICAL - 2022-12-25 22:59:05 --> Array callback must have exactly two elements
+#0 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->insertJobpost()
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-25 22:59:24 --> Undefined variable $_SESSION
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(429): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 429)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->insertJobpost()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,305 @@
+CRITICAL - 2022-09-18 07:27:31 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(117): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(148): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(133): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Insert_com_Profile()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 07:28:43 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(117): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(148): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(133): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Insert_com_Profile()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 07:29:38 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(117): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 07:29:45 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(117): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 07:29:46 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(117): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 07:31:21 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(117): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 07:32:09 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(117): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 10:00:56 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(117): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 12:07:17 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 95)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(117): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 12:24:20 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 97)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(119): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(150): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(77): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 12:25:02 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 97)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(119): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(150): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(77): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 12:32:59 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 97)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(119): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(150): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(77): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 12:36:51 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 97)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(119): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(150): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(77): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 12:54:49 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 99)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(121): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(152): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(77): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 13:06:06 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 99)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(121): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(152): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(77): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 13:23:42 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(128): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(159): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(77): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 13:28:59 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(128): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(159): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(77): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 13:30:34 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(100): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:32:30 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(100): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:32:38 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(161): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(78): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 13:35:02 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(161): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(78): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 13:37:28 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(100): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:37:31 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(100): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:37:36 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:37:43 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:38:03 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\app\Controllers\User.php(161): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\app\Controllers\User.php(78): App\Controllers\User->Dashboard()
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#5 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-09-18 13:41:55 --> Trying to access array offset on value of type bool
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->Login()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-18 13:47:25 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:48:05 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:48:08 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:48:08 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:48:08 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 13:48:08 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 14:01:26 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-18 14:01:28 --> Undefined array key 0
+#0 C:\xampp\htdocs\eternity\app\Controllers\User.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 108)
+#1 C:\xampp\htdocs\eternity\app\Controllers\User.php(130): App\Controllers\User->CompanyProfile()
+#2 C:\xampp\htdocs\eternity\system\CodeIgniter.php(824): App\Controllers\User->login_page()
+#3 C:\xampp\htdocs\eternity\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 C:\xampp\htdocs\eternity\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\eternity\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

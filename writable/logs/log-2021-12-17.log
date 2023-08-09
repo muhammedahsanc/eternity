@@ -1,0 +1,36 @@
+CRITICAL - 2021-12-17 22:29:18 --> Too few arguments to function App\Controllers\Home::delete(), 0 passed in C:\xampp\htdocs\codei\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->delete()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-17 22:38:09 --> Too few arguments to function App\Controllers\Home::delete(), 0 passed in C:\xampp\htdocs\codei\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->delete()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-17 22:38:12 --> Too few arguments to function App\Controllers\Home::delete(), 0 passed in C:\xampp\htdocs\codei\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->delete()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-17 22:38:20 --> Too few arguments to function App\Controllers\Home::delete(), 0 passed in C:\xampp\htdocs\codei\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->delete()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-17 22:41:08 --> Too few arguments to function App\Controllers\Home::deletee(), 0 passed in C:\xampp\htdocs\codei\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->deletee()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-17 22:42:06 --> Too few arguments to function App\Controllers\Home::deletee(), 0 passed in C:\xampp\htdocs\codei\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->deletee()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

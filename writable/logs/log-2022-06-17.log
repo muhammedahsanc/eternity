@@ -1,0 +1,24 @@
+ERROR - 2022-06-17 09:45:45 --> Error connecting to the database: Unknown database 'db_reg'
+CRITICAL - 2022-06-17 09:45:45 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'db_reg'
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\ci4\app\Models\Homemodel.php(24): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(15): App\Models\Homemodel->Alldata()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-17 11:17:04 --> Error connecting to the database: Unknown database 'db_reg'
+CRITICAL - 2022-06-17 11:17:04 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'db_reg'
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\ci4\app\Models\Homemodel.php(25): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(15): App\Models\Homemodel->Alldata()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

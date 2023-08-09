@@ -1,0 +1,356 @@
+CRITICAL - 2021-11-24 06:41:01 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\codei\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\codei\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-11-24 06:41:40 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\codei\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\codei\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-11-24 06:42:15 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\codei\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\codei\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-11-24 00:00:06 --> Class "App\Models\Crudmodel" not found
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-24 00:00:07 --> Class "App\Models\Crudmodel" not found
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-24 00:00:36 --> Class "app\Models\Crudmodel" not found
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-24 00:00:40 --> Class "app\Models\Crudmodel" not found
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-24 00:04:01 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 00:09:29 --> Class "app\Controllers\Controllers" not found
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 00:09:30 --> Class "app\Controllers\Controllers" not found
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 00:09:58 --> Class "app\Controllers\Controller" not found
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 00:10:12 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 00:12:52 --> Class "app\Controllers\Controllers" not found
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 00:14:21 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 00:16:05 --> Class "App\Models\Models" not found
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\codei\app\Controllers\Home.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 00:16:40 --> Class "App\Models\Models" not found
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\codei\app\Controllers\Home.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 00:16:41 --> Class "App\Models\Models" not found
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\codei\app\Controllers\Home.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 01:34:26 --> syntax error, unexpected token "}", expecting ";"
+#0 C:\xampp\htdocs\codei\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Home/index')
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Home/index')
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-24 01:35:07 --> include(conn.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\codei\app\Views\View.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(conn.ph...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\codei\app\Views\View.php(29): include()
+#2 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#5 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-11-24 01:36:05 --> Undefined variable $conn
+#0 C:\xampp\htdocs\codei\app\Views\View.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 01:36:19 --> Call to undefined function query()
+#0 C:\xampp\htdocs\codei\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#3 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 01:36:21 --> Call to undefined function query()
+#0 C:\xampp\htdocs\codei\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#3 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-24 03:29:36 --> syntax error, unexpected identifier "get", expecting ";"
+#0 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\codei\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#2 C:\xampp\htdocs\codei\app\Controllers\Home.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\codei\system\CodeIgniter.php(801): App\Controllers\Home->__construct()
+#4 C:\xampp\htdocs\codei\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-24 04:13:35 --> Undefined constant "App\Controllers\View"
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-24 04:13:37 --> Undefined constant "App\Controllers\View"
+#0 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#1 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-24 04:31:58 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:32:00 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:32:00 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:32:01 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:32:01 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:32:01 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:34:01 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:34:03 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:34:03 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:34:03 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:34:04 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:34:04 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-24 04:34:04 --> Undefined variable $cruddata
+#0 C:\xampp\htdocs\codei\app\Views\View.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\codei\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codei\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codei\system\Common.php(1097): CodeIgniter\View\View->render('View', Array, true)
+#4 C:\xampp\htdocs\codei\app\Controllers\Home.php(15): view('View')
+#5 C:\xampp\htdocs\codei\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\codei\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\codei\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codei\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

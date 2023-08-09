@@ -1,0 +1,171 @@
+/*Login*/
+.wrapper{
+	justify-content: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.login-cust{
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	border-radius: 10px;
+}
+.login-card{
+	padding: 100px;
+	border: 2px solid rgba(0,0,0,.125);
+	border-radius: 15px;
+	background: #fff;
+	box-shadow: 0 4px 12px rgb(0 0 0 / 15%);
+	margin-top: 2px;
+    padding-top: 77px;
+}
+.container-fluid{
+	padding: 0px !important;
+	background: #f0f2f5;
+}
+.login-btn{
+	width: 100%;
+	padding: 10px;
+	background-color: #1877f2;
+	color: #fff;
+	border-radius: 10px;
+}
+.login-btn:hover{
+	background-color: #166fe5;
+	color: #fff;
+}
+.cust-btn{
+	justify-content: center;
+	display: flex;
+	flex-direction: row;
+}
+.login-card input{
+	padding: 10px;
+
+}
+.fb-blue{
+	color: #0664de;
+}
+.sign-up{
+	width: 100%;
+	padding: 10px;
+	background-color: #fff;
+	color: #705f5f;
+	border-radius: 10px;
+	border: 2px solid rgba(0,0,0,.125);
+}
+.sign-up:hover{
+	background-color: rgba(207,207,207,0.25);
+	color: #705f5f;
+}
+.forget-password{
+	background-color: rgba(0,0,0,0);
+	border: 0;
+	border-radius: 2px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	color: #0073b1;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 500;
+	font-family: inherit;
+	text-decoration: none;
+	color: #0a66c2 !important;
+	border-radius: 28px !important;
+}
+.forget-password:hover{
+	text-decoration: underline;
+
+}
+/*Sign Up*/
+.learnmore{
+	font-size: 13px;
+	color: lightslategray;
+	margin-bottom: 0px !important;
+}
+
+.learn{
+	color: #3c68a9;
+	text-decoration: none;
+}
+.textarea{
+	width: 238px;
+}
+.learnmore-sub{
+	font-size: 13px;
+	color: lightslategray;
+	margin-bottom: 0px !important;
+	display: none;
+}
+/*role page*/
+.centering{
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	height: 100vh;
+}
+.role-card{
+	padding: 100px;
+	border: 2px solid rgba(0,0,0,.125);
+	border-radius: 15px;
+	background: #fff;
+	box-shadow: 0 4px 12px rgb(0 0 0 / 15%);
+}
+.role-card h6{
+font-size: 28px;
+}
+.role-card:hover{
+	cursor: pointer;
+transition: all 0.5s cubic-bezier(.25,.8,.25,1);
+    box-shadow: 0 0px 0px rgb(0 0 0 / 15%);
+}
+/*Media Query*/
+@media only screen and (max-width: 430px){
+	.login-card{
+		padding: 50px;
+	}
+	.role-card{
+		padding: 75px;
+	}
+.role-card h6{
+font-size: 20px;
+}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 400px){
+	.learnmore{
+		display: none;
+	}
+	.learnmore-sub{
+		display: initial;
+	}
+}
+
+@media only screen and (max-width: 750px){
+.role-card-horizontal{
+	display: none;
+}
+.role-card-vertical{
+	display: initial;
+}
+	
+}
+@media only screen and (min-width: 750px){
+.role-card-horizontal{
+	display: initial;
+}
+.role-card-vertical{
+	display: none;
+}
+	
+}
+@media only screen and (min-width: 750px) and (max-width: 1200px){
+
+.role-card h6{
+font-size: 20px;
+}
+
+}
